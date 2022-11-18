@@ -12,12 +12,12 @@ color:black;
     
 }
 form{
-    font-family:Impact'Arial Narrow Bold', sans-serif ;
+    font-family:Impact, italics, 'Arial Narrow Bold', sans-serif ;
 font-weight : bold;
 }
-form{border: 2px;
-    border-radius: 8px;
-    padding: 5px;
+form{border: 7px;
+    border-radius: 9px;
+    padding: 90px;
     width: 400px;
 }
 form{
@@ -29,4 +29,8 @@ image{
 
 width: auto;
 height: auto;
+}
+body{
+
+    background-color: black;
 }
