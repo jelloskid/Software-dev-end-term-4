@@ -13,7 +13,7 @@ if (true) {
 
 newtask()
 
-var specialCaptures=("<>/");
+var check= (specialCaptures)=("<>")
 var checkspecialCaptures=function(_string="any"){
     for(k=0;k<specialCaptures.length;k++){
         if("check")(specialCaptures[checkspecialCaptures]);
